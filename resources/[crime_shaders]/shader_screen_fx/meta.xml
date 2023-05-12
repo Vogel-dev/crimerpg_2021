@@ -1,0 +1,18 @@
+<meta>
+	<info name="shader_screen_fx" version="0.0.5" author="Ren712" type="script" />	
+	<script src="c_main.lua" type="client" />
+	<script src="c_exported_functions.lua" type="client" />
+	<file src="tex/color.png" type="client" />
+	<file src="fx/esotropiaH.fx" type="client" />
+	<file src="fx/esotropiaV.fx" type="client" />
+	<file src="fx/colors.fx" type="client" />
+	<file src="fx/wobble.fx" type="client" />
+	<file src="fx/shake.fx" type="client" />
+
+	<export function="startEffects" type="client" />
+	<export function="enableEffect" type="client" />
+	<export function="setMaxAlpha" type="client" />
+	<export function="setEffectMaxStrength" type="client" />
+	<export function="setEffectFadeSpeed" type="client" />
+	<export function="setEffectVariables" type="client" />
+</meta>

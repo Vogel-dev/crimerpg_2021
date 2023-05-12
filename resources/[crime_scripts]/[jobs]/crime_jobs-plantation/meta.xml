@@ -1,0 +1,11 @@
+<meta>
+	<script src="s.lua" type="server"/>
+	<script src="c.lua" type="client" cache="false"/>
+
+	<file src="weed.png"/>
+
+	<file src="klik.png"/>
+	
+	<file src="window.png"/>
+	<file src="window-2.png"/>
+</meta>

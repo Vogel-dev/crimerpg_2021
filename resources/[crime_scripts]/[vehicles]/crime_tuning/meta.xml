@@ -1,0 +1,24 @@
+<meta>
+
+	<script src="translationsG.lua" type="shared" cache="false"/>
+	<script src="sourceG.lua" type="shared" cache="false"/>
+	<script src="sourceS.lua" type="server" />
+	<script src="sourceC.lua" type="client" cache="false"/>
+	<script src="color/sourceC.lua" type="client" cache="false"/>
+	
+	<!-- jpg -->
+	<file src="pliki/jpg/logo.png" />
+	<file src="pliki/jpg/oddo.png" />
+	<file src="pliki/jpg/nawigacja.png" />
+	<file src="pliki/jpg/palette.png" />
+	<file src="pliki/jpg/przez.png" />
+	
+	<!-- czcionki -->
+	<file src="pliki/czcionki/font.ttf" />
+	<file src="pliki/czcionki/fontawesome.ttf" />
+	
+	<!-- dzwieki -->
+	<file src="pliki/dzwieki/backspace.wav" />
+	<file src="pliki/dzwieki/enter.mp3" />
+	<file src="pliki/dzwieki/zmiana.mp3" />
+</meta>

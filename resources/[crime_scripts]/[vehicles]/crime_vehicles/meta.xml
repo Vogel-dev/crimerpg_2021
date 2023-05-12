@@ -1,0 +1,11 @@
+<meta>
+	<oop>true</oop>
+	
+	<export function="onRespawnVehicles" type="server" />
+	<export function="onSaveVehicle" type="server" />
+	<export function="onParkVehicle" type="server" />
+	<script src="c.lua" type="client" cache="false"/>
+	<file src="szyby.fx"/>
+	<file src="shader.fx"/>
+	<script src="s.lua" type="server" />
+</meta>

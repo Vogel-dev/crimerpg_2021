@@ -1,0 +1,12 @@
+<meta>
+	<file src="stacja.png" />
+	<file src="stacjawybor.png" />
+	<file src="f.ttf" />
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="spalanie.lua" type="client" cache="false"/>
+	<script src="s.lua" type="server"/>
+	
+	<file src="pasek.png" />
+	<file src="pasekfull.png" />
+
+</meta>

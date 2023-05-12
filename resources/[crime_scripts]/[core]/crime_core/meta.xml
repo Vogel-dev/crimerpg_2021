@@ -1,0 +1,18 @@
+<meta>
+	<min_mta_version client="1.5.7" server="1.5.7" />
+	<!-- EXPORTS -->
+	<export function="findPlayer" type="server" />
+
+	<!-- SERVERSIDE -->
+
+	<script src="cmd.lua" type="server" />
+	<script src="base.lua" type="server" />
+	<script src="chats.lua" type="server" />
+	<script src="vehicles.lua" type="server" />
+	<script src="system_id.lua" type="server" />
+	<script src="saveplayers.lua" type="server" />
+	<script src="dmg_c.lua" type="client" cache="false"/>
+	<script src="cav.lua" type="client" cache="false"/>
+	<script src="bw.lua" type="client" cache="false"/>
+	<script src="dmgs.lua" type="server" />
+</meta>

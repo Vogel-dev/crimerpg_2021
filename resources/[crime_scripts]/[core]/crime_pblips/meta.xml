@@ -1,0 +1,4 @@
+<meta>
+  <info author="Server Default" description="Player Blips" type="script" version="1.0.0" />
+  <script src="playerblips.lua" type="server" />
+</meta>

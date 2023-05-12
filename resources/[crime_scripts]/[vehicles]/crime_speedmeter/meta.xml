@@ -1,0 +1,13 @@
+<meta>
+    <script src='utils.lua' type='client' cache='false'/>
+    <script src='client_speedo.lua' type='client' cache='false'/>
+    <file src='files/arrow_fuel.png'/>
+    <file src='files/arrow.png'/>
+    <file src='files/disc.png'/>
+    <file src='files/disc_light.png'/>
+    <file src='files/icon_engine.png'/>
+    <file src='files/icon_handbrake.png'/>
+    <file src='files/icon_light.png'/>
+
+    <file src='files/Roboto-Regular.ttf'/>
+</meta>

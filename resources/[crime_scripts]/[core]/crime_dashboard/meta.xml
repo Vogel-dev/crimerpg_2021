@@ -1,0 +1,18 @@
+<meta>
+	<script src="s.lua" type="server"/>
+	<script src="c.lua" type="client" cache="false"/>
+
+	<file src="files/main.png"/>
+	<file src="files/avatar.png"/>
+	<file src="files/info.png"/>
+	<file src="files/kolorowy.png"/>
+	<file src="files/ciemny.png"/>
+	<file src="files/arrow.png"/>
+	<file src="files/kolo.png"/>
+	<file src="files/window.png"/>
+
+	<file src="files/shader/circle_mask.png"/>
+	<file src="files/shader/hud_mask.fx"/>
+	<file src="files/shader/tex_matrix.fx"/>
+
+</meta>

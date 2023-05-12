@@ -1,0 +1,5 @@
+<meta>
+	<script src="c_zone.lua" type="client" cache="false"/>
+	<script src="c_logging.lua" type="client" cache="false"/>
+	<script src="s_logging.lua" type="server" />
+</meta>

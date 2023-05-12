@@ -1,0 +1,6 @@
+<meta>
+	<script src="g_cs-texts.lua" type="shared" cache="false" />
+	<export function="getText" type="shared" />
+	<export function="getText2" type="shared" />
+	<export function="getText3" type="shared" />
+</meta>

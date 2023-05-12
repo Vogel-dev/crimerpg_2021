@@ -1,0 +1,47 @@
+<meta>
+	
+	<!-- Scripts -->
+	<script src="sourceC.lua" type="client" cache="false"/>
+	
+	<!-- IMPORTANT -->
+	<file src="files/textureChanger.fx" />
+	
+	<!-- Paintjobs -->
+	<file src="files/elektryk.png" />
+	<file src="files/karbon.png" />
+	<file src="files/122.png" />
+	<file src="files/71.png" />
+	<file src="files/344.png" />
+	<file src="files/66.png" />
+	<file src="files/133.png" />
+	<file src="files/482.png" />
+	<file src="files/220.png" />
+	<file src="files/2.png" />
+	<file src="files/756.png" />
+	<file src="files/758.png" />
+	<file src="files/748.png" />
+	<file src="files/824.png" />
+	<file src="files/825.png" />
+	<file src="files/826.png" />
+	<file src="files/855.png" />
+	<file src="files/128.png" />
+	<file src="files/931.png" />
+	<file src="files/953.png" />
+	<file src="files/368.png" />
+	<file src="files/867.png" />
+	<file src="files/370.png" />
+	<file src="files/410.png" />
+	<file src="files/1085.png" />
+	<file src="files/861.png" />
+	<file src="files/532.png" />
+	<file src="files/860.png" />
+	<file src="files/1161.png" />
+	<file src="files/1390.png" />
+	<file src="files/1387.png" />
+	<file src="files/1380.png" />
+	<file src="files/1392.png" />
+	<file src="files/1385.png" />
+	<file src="files/1398.png" />
+	<file src="files/1382.png" />
+	<file src="files/1400.png" />
+</meta>

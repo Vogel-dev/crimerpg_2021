@@ -1,0 +1,20 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false"/>
+		
+		<file src="1.wav" />
+		<file src="2.wav" />
+		<file src="3.wav" />
+		<file src="4.wav" />
+		<file src="5.wav" />
+		<file src="6.wav" />
+		<file src="7.wav" />
+		<file src="8.wav" />
+		<file src="9.wav" />
+		<file src="10.wav" />
+		<file src="11.wav" />
+		<file src="12.wav" />
+		<file src="13.wav" />
+		<file src="14.wav" />
+		<file src="police.wav" />
+</meta>

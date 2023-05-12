@@ -1,0 +1,51 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="s.lua" type="server"/>
+
+	<file src="hp.png"/>
+
+	<file src="bronie/0.png"/>
+	<file src="bronie/1.png"/>
+	<file src="bronie/2.png"/>
+	<file src="bronie/3.png"/>
+	<file src="bronie/4.png"/>
+	<file src="bronie/5.png"/>
+	<file src="bronie/6.png"/>
+	<file src="bronie/7.png"/>
+	<file src="bronie/8.png"/>
+	<file src="bronie/9.png"/>
+	<file src="bronie/10.png"/>
+	<file src="bronie/11.png"/>
+	<file src="bronie/12.png"/>
+	<file src="bronie/14.png"/>
+	<file src="bronie/15.png"/>
+	<file src="bronie/16.png"/>
+	<file src="bronie/17.png"/>
+	<file src="bronie/18.png"/>
+	<file src="bronie/22.png"/>
+	<file src="bronie/23.png"/>
+	<file src="bronie/24.png"/>
+	<file src="bronie/25.png"/>
+	<file src="bronie/26.png"/>
+	<file src="bronie/27.png"/>
+	<file src="bronie/28.png"/>
+	<file src="bronie/29.png"/>
+	<file src="bronie/30.png"/>
+	<file src="bronie/31.png"/>
+	<file src="bronie/32.png"/>
+	<file src="bronie/33.png"/>
+	<file src="bronie/34.png"/>
+	<file src="bronie/35.png"/>
+	<file src="bronie/36.png"/>
+	<file src="bronie/37.png"/>
+	<file src="bronie/38.png"/>
+	<file src="bronie/39.png"/>
+	<file src="bronie/40.png"/>
+	<file src="bronie/41.png"/>
+	<file src="bronie/42.png"/>
+	<file src="bronie/43.png"/>
+	<file src="bronie/44.png"/>
+	<file src="bronie/45.png"/>
+	<file src="bronie/46.png"/>
+	
+</meta>

@@ -1,0 +1,104 @@
+
+myCollision = createColCuboid(1534.1368, -1636.8579, 12.132813, 21.75, 19.25, 2)
+
+-- -- -- -- -- 5.1.2018 at 21:3, Creator: Hiroszek
+myCollision = createColCuboid(1515.5715, -1660.7601, 12.046875, 59.75, 60.5, 2)
+
+-- -- -- -- -- 5.1.2018 at 21:23, Creator: Hiroszek
+myCollision = createColCuboid(1562.4821, -1627.6676, 13.382813, 2, 2, 2)
+
+-- -- -- -- -- 5.1.2018 at 21:43, Creator: Hiroszek
+myCollision = createColCuboid(1542.8273, -1633.6024, 12.132813, 2.25, 2.5, 2)
+
+-- -- -- -- -- 6.1.2018 at 14:38, Creator: Hiroszek
+myCollision = createColCuboid(1543.5804, -1632.8514, 12.382813, 1.25, 1.75, 2)
+
+-- -- -- -- -- 6.1.2018 at 20:27, Creator: #FF0000Hiroszek
+myCollision = createColCuboid(1581.8231, -1653.225, 10.625832, 15.25, 25.25, 2)
+
+-- -- -- -- -- 11.1.2018 at 13:12, Creator: #0079EBdev1
+myCollision = createColCuboid(2149.9927, -2224.8638, 12.304012, 4, 3, 2)
+
+-- -- -- -- -- 11.1.2018 at 13:13, Creator: #0079EBdev1
+myCollision = createColCuboid(2159.1777, -2253.6343, 13.554686, 80.75, 73.25, 2)
+
+-- -- -- -- -- 11.1.2018 at 18:19, Creator: #0079EBdev1
+myCollision = createColCuboid(1520.4569, -1703.7977, -24.244484, 3.75, 3.75, 2)
+
+-- -- -- -- -- 11.1.2018 at 18:19, Creator: #0079EBdev1
+myCollision = createColCuboid(1499.6108, -1538.6838, 67.207191, 6.5, 7.25, 2)
+
+-- -- -- -- -- 13.1.2018 at 14:8, Creator: #0079EBdev1
+myCollision = createColCuboid(1926.9364, -2048.3171, 13.546875, 39, 78, 2)
+
+-- -- -- -- -- 14.1.2018 at 10:56, Creator: #0079EBdev1
+myCollision = createColCuboid(976.12646, -1266.1476, 12.451836, 7, 9, 2)
+
+-- -- -- -- -- 14.1.2018 at 11:0, Creator: #0079EBdev1
+myCollision = createColCuboid(969.74664, -1266.4117, 14.076825, 6.25, 9.25, 2)
+
+-- -- -- -- -- 14.1.2018 at 13:54, Creator: #0079EBdev1
+myCollision = createColCuboid(948.52771, -1282.5757, 12.20944, 51.5, 32.75, 2)
+
+-- -- -- -- -- 14.1.2018 at 17:34, Creator: #0079EBdev1
+myCollision = createColCuboid(2056.5488, -1836.1313, 12.296875, 14.75, 10.25, 2)
+
+-- -- -- -- -- 14.1.2018 at 17:48, Creator: #0079EBdev1
+myCollision = createColCuboid(1926.8115, -2007.8958, 13.607813, 21.25, 10.25, 2)
+
+-- -- -- -- -- 14.1.2018 at 17:49, Creator: #0079EBdev1
+myCollision = createColCuboid(1930.5635, -2007.1395, 13.607813, 11.75, 9.5, 2)
+
+-- -- -- -- -- 14.1.2018 at 17:50, Creator: #0079EBdev1
+myCollision = createColCuboid(1926.0594, -2016.0955, 13.607813, 11.75, 8.75, 2)
+
+-- -- -- -- -- 17.1.2018 at 16:51, Creator: #0079EBdev1
+myCollision = createColCuboid(1761.2096, -1694.5811, 11.956694, 10.5, 7, 2)
+
+-- -- -- -- -- 26.10.2018 at 21:39, Creator: #025830Hiroszek
+myCollision = createColCuboid(1811.0035, -1551.3776, -21.481251, 2, 2.25, 2)
+
+-- -- -- -- -- 26.10.2018 at 21:40, Creator: #025830Hiroszek
+myCollision = createColCuboid(1804.9174, -1590.9969, -21.231251, 7, 62.25, 2)
+
+-- -- -- -- -- 23.12.2018 at 21:17, Creator: .Vec
+myCollision = createColCuboid(1841.2968, -1388.5695, 13.5625, 2.5, 2.75, 2)
+
+-- -- -- -- -- 23.12.2018 at 21:18, Creator: .Vec
+myCollision = createColCuboid(1807.907, -1422.2433, 11.924079, 43, 75, 2)
+
+-- -- -- -- -- 1.1.2019 at 17:56, Creator: #025830.Vec
+myCollision = createColCuboid(2512.0232, -1519.855, 24, 2, 2, 2)
+
+-- -- -- -- -- 1.1.2019 at 17:57, Creator: #025830.Vec
+myCollision = createColCuboid(2497.2451, -1549.215, 22.484686, 60.75, 50.75, 2)
+
+-- -- -- -- -- 1.1.2019 at 20:36, Creator: .Vec
+myCollision = createColCuboid(1819.2607, -1405.1968, 12.179688, 2.5, 2.5, 2)
+
+-- -- -- -- -- 27.1.2019 at 22:9, Creator: #025830Hiroszek
+myCollision = createColCuboid(1842.8334, -1366.9644, 50.733372, 8.75, 8.5, 2)
+
+-- -- -- -- -- 28.1.2019 at 15:8, Creator: #025830Hiroszek
+myCollision = createColCuboid(996.70844, -1944.5309, 10.802202, 46.5, 66.5, 2)
+
+-- -- -- -- -- 5.2.2019 at 18:58, Creator: #025830Hiroszek
+myCollision = createColCuboid(996.39551, -1940.7054, 11.792011, 39.25, 71, 2)
+
+-- -- -- -- -- 8.8.2019 at 21:18, Creator: #993333Hiroszek
+myCollision = createColCuboid(5960.0571, -1024.4177, 10.950937, 84.5, 85.75, 2)
+
+-- -- -- -- -- 15.8.2019 at 14:30, Creator: #993333Hiroszek
+myCollision = createColCuboid(441.90958, -1521.2648, 11.460938, 5.75, 5.25, 2)
+
+-- -- -- -- -- 13.5.2020 at 12:31, Creator: #d6d6d6Hiroszek
+myCollision = createColCuboid(2281.8491, -1961.7932, 13.896875, 15.25, 17.5, 2)
+
+-- -- -- -- -- 15.5.2020 at 15:49, Creator: #993333Hiroszek
+myCollision = createColCuboid(931.95593, -1652.1539, 13.547053, 15.25, 12, 2)
+
+-- -- -- -- -- 21.5.2020 at 22:28, Creator: #993333Hiroszek
+myCollision = createColCuboid(465.83356, -1552.2078, -37.092186, 2, 2, 2)
+
+-- -- -- -- -- 17.11.2020 at 13:46, Creator: #CA43FFVercetti
+myCollision = createColCuboid(2223.1445, -1473.8491, 30.038437, 53.5, 21, 2)

@@ -1,0 +1,18 @@
+<meta>
+	<script src="util.lua" type="server" />
+	<script src="interiory.lua" type="server" />
+	<script src="domy.lua" type="server" />
+	<script src="domy_c.lua" type="client" cache="false"/>
+	<script src="podglad_c.lua" type="client" cache="false"/>
+	<script src="kupdom_c.lua" type="client" cache="false"/>
+	<script src="kupdom.lua" type="server" />
+	<script src="wyjscia.lua" type="server" />
+	<script src="domy_opcje.lua" type="server" />
+	
+	<export function="domReload" type="server" />
+	<export function="graczMozeSpawnowacPodDomem" type="server" />
+	<export function="spawnGraczaPodDomem" type="server" />
+	<export function="domyGetInfo" type="server" />
+	<file src="window.png"/>
+	<file src="window2.png"/>
+</meta>

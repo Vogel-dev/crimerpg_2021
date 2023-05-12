@@ -1,0 +1,4 @@
+<meta>
+    <script src="marker.lua" type="client" cache="false"/>
+	<file src="img/light.png"/>
+</meta>

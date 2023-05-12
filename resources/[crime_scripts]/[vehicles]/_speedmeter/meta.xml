@@ -1,0 +1,16 @@
+<meta>
+	<script src="speedom.lua" type="client" cache="false"/>
+	<file src="Digital.ttf" />
+	<file src="f.ttf" />
+	
+		<file src="brakeo.png" />
+		<file src="brakew.png" />
+		<file src="engineo.png" />
+		<file src="enginew.png" />
+		<file src="lighto.png" />
+		<file src="lightw.png" />
+		<file src="lineo.png" />
+		<file src="linew.png" />
+		<file src="speed.png" />
+	
+</meta>

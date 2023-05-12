@@ -1,0 +1,7 @@
+<meta>
+	<!-- SERVERSIDE -->
+	<oop>true</oop>
+	<script src="s_salon.lua" type="server" />
+	<script src="c.lua" type="client" cache="false"/>
+	<file src="background.png"/>
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+	<export function="oddajcar" type="server" />
+	<script src="s_parking.lua" type="server" />
+	<script src="c_parking.lua" type="client" cache="false"/>
+	<file src="window.png"/>
+	<file src="window2.png"/>
+</meta>

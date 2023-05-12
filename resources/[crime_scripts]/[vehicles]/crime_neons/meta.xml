@@ -1,0 +1,5 @@
+<meta>
+  <download_priority_group>2</download_priority_group>
+  <script src="c.lua" type="client" cache="false"/>
+  <file src="neon.png" />
+</meta>

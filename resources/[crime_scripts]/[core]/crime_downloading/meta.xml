@@ -1,0 +1,21 @@
+<meta>
+	<download_priority_group>1</download_priority_group>
+	<script src="c.lua" type="client" cache="false" />
+
+	<file src="postacie/1.png"/>
+	<file src="postacie/2.png"/>
+	<file src="postacie/3.png"/>
+	<file src="postacie/4.png"/>
+	<file src="postacie/5.png"/>
+	<file src="postacie/6.png"/>
+	<file src="postacie/7.png"/>
+	<file src="postacie/8.png"/>
+	<file src="postacie/9.png"/>
+	<file src="postacie/10.png"/>
+
+	<file src="srodki/1.png"/>
+	<file src="srodki/2.png"/>
+	<file src="srodki/3.png"/>
+	<file src="srodki/4.png"/>
+	<file src="srodki/boki.png"/>
+</meta>

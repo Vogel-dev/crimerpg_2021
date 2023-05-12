@@ -1,0 +1,28 @@
+<meta>
+	<download_priority_group>1</download_priority_group>
+  	<export function="guibutton" type="client"/>
+	  <export function="guibuttonrgb" type="client"/>
+	<export function="guibuttonhex" type="client"/>
+	<export function="guibuttonicon" type="client"/>
+	<export function="guiicon" type="client"/>
+	<export function="guiswitch" type="client"/>
+  	<export function="guitext" type="client"/>
+	<export function="guitextcas" type="client"/>
+	<export function="guitextprawko" type="client"/>
+	<export function="guitextlogiadm" type="client"/>
+  	<export function="createEditbox" type="client" />
+	<export function="changeEditboxText" type="client" />
+	<export function="changeEditboxVisibility" type="client" />
+	<export function="getEditboxText" type="client" />
+	<export function="setEditboxPosition" type="client" />
+	<export function="setEditboxSize" type="client" />
+	<export function="destroyEditbox" type="client" />
+	<export function="isEditboxActive" type="client" />
+	<export function="changeEditboxColor" type="client" />
+	<export function="addNoti" type="client" />
+
+
+  <script src="c_srgui.lua" type="client" cache="false"/>
+  <script src="c_editboxy.lua" type="client" cache="false"/>
+  <script src="notification_c.lua" type="client" cache="false" />
+</meta>

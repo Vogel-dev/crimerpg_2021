@@ -1,0 +1,19 @@
+<meta>
+  <export function="getAdmin" type="server"/>
+  <export function="getAdmin" type="client"/>
+  <script src="s_cmd.lua" type="server"/>
+  <script src="s_utility.lua" type="server"/>
+  <script src="klatka_s.lua" type="server"/>
+  <script src="tp.lua" type="server"/>
+  <script src="c_utility.lua" type="client" cache="false"/>
+  <script type="client" src="client.lua" cache="false"/>
+  <script type="client" src="airbreak.lua" cache="false"/>
+  <script src="s_derby.lua" type="server"/>
+  <script src="s_komendy.lua" type="server"/>
+  <script src="s_raczki.lua" type="server"/>
+  <script src="s_podatki.lua" type="server"/>
+  <script src="s_punkt.lua" type="server"/>
+  <script src="s_dogonmnie.lua" type="server"/>
+  <script src="s_platformy.lua" type="server"/>
+  <script src="c_eventinfo.lua" type="client" cache="false"/>
+</meta>

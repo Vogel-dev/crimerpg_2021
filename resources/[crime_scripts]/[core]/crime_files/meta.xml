@@ -1,0 +1,98 @@
+<meta>
+	<download_priority_group>1</download_priority_group>
+	<file src="fonts/FiraEC.ttf"/>
+	<file src="fonts/PantonLight.ttf"/>
+	<file src="fonts/SegoeLight.ttf"/>
+	<file src="fonts/PantonBold.ttf"/>
+	<file src="fonts/Bebas.ttf"/>
+	<file src="fonts/AmiralloUSAF.ttf"/>
+	<file src="fonts/Alba.ttf"/>
+	<file src="fonts/MitramSBold.ttf"/>
+	<file src="core/bw.png"/>
+	<file src="core/pass.png"/>
+	<file src="core/wheel.png"/>
+	<file src="logowanie/banned.png"/>
+	<file src="logowanie/register.png"/>
+	<file src="logowanie/recovering.png"/>
+	<file src="logowanie/logo.png"/>
+	<file src="logowanie/logos.png"/>
+
+	<file src="logowanie/new/bg1.png"/>
+	<file src="logowanie/new/bg2.png"/>
+	<file src="logowanie/new/bg3.png"/>
+	<file src="logowanie/new/bg4.png"/>
+	<file src="logowanie/new/bg5.png"/>
+	<file src="logowanie/new/bg6.png"/>
+	<file src="logowanie/new/bg7.png"/>
+	<file src="logowanie/new/buttonlogin.png"/>
+	<file src="logowanie/new/buttonlogina.png"/>
+	<file src="logowanie/new/logo.png"/>
+	<file src="logowanie/new/logoshadow.png"/>
+	<file src="logowanie/new/account.png"/>
+	<file src="logowanie/new/recovery.png"/>
+
+	<file src="other/intro.mp3"/>
+	<file src="other/cos.png"/>
+	<file src="other/zielsko.png"/>
+	<file src="shaders/blackwhite.fx"/>
+	<file src="gui/button.png"/>
+	<file src="gui/activebutton.png"/>
+	<file src="gui/activebutton2.png"/>
+	<file src="gui/center.png"/>
+
+	<file src="gui/switchon.png"/>
+	<file src="gui/switchoff.png"/>
+
+	<file src="gui/normal.png"/>
+	<file src="gui/selected.png"/>
+
+	<file src="nametags/siteM16.png"/>
+	<file src="nametags/shader.fx"/>
+	<file src="nametags/ikony/admin.png"/>
+	<file src="nametags/ikony/afk.png"/>
+	<file src="nametags/ikony/gracz.png"/>
+	<file src="nametags/ikony/mod.png"/>
+	<file src="nametags/ikony/mowi.png"/>
+	<file src="nametags/ikony/mzarzad.png"/>
+	<file src="nametags/ikony/ceo.png"/>
+	<file src="nametags/ikony/pisze.png"/>
+	<file src="nametags/ikony/pomocnik.png"/>
+	<file src="nametags/ikony/premium.png"/>
+	<file src="nametags/ikony/zarzad.png"/>
+	<file src="nametags/ikony/rp.png"/>
+	<file src="nametags/ikony/drugs.png"/>
+
+	<file src="noti/s/alert.wav"/>
+	<file src="noti/background.png"/>
+	<file src="noti/error.png"/>
+	<file src="noti/info.png"/>
+	<file src="noti/success.png"/>
+	<file src="noti/money.png"/>
+	<file src="noti/premium.png"/>
+	<file src="noti/penalty.png"/>
+
+	<file src="dutyadmin/blue.png"/>
+	<file src="dutyadmin/red.png"/>
+	<file src="dutyadmin/event.png"/>
+
+	<file src="interakcja/kluczelight.png"/>
+	<file src="interakcja/maskalight.png"/>
+	<file src="interakcja/naped.png"/>
+	<file src="interakcja/napedlight.png"/>
+	<file src="interakcja/pasazerlight.png"/>
+	<file src="interakcja/podstawa.png"/>
+	<file src="interakcja/recznylight.png"/>
+	<file src="interakcja/silniklight.png"/>
+	<file src="interakcja/swiatlalight.png"/>
+	<file src="interakcja/typpaliwa.png"/>
+	<file src="interakcja/typpaliwalight.png"/>
+	<file src="interakcja/zawieszenie.png"/>
+	<file src="interakcja/zawieszenielight.png"/>
+	<file src="interakcja/zakursorem.png"/>
+
+	<file src="fontawesome/FA1.ttf"/>
+	<file src="fontawesome/FA2.ttf"/>
+	<file src="fontawesome/FA3.ttf"/>
+	<file src="fontawesome/FA4.ttf"/>
+	<file src="fontawesome/FA5.ttf"/>
+</meta>

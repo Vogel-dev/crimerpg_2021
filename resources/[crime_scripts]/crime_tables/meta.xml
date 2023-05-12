@@ -1,0 +1,10 @@
+<meta>
+	<file src="replace.fx"/>
+	<file src="tlo.png"/>
+	<file src="logo.png"/>
+	<script src="sha.lua" type="shared" cache="false"/>
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="s.lua" type="server"/>
+	<export function="updateRanking" type="server"/>
+	<min_mta_version client="1.3.0-9.04431" />
+</meta>

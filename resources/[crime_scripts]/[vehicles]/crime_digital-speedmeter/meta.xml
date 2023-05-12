@@ -1,0 +1,14 @@
+<meta>
+    <script src="s_core.lua" type="server" cache="false" validate="true"/>
+    <script src="c_core.lua" type="client" cache="false" validate="true"/>
+
+    <file src="files/strokes.png"/>
+    <file src="files/0.png"/>
+    <file src="files/1.png"/>
+    <file src="files/2.png"/>
+    <file src="files/3.png"/>
+    <file src="files/4.png"/>
+    <file src="files/5.png"/>
+
+    <file src="files/b.ttf"/>
+</meta>

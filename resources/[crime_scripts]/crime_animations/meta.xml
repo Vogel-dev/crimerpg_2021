@@ -1,0 +1,4 @@
+<meta>
+	<script src="c_sr-radio.lua" type="client" cache="false" />
+	<script src="s_sr-radio.lua" type="server" />
+</meta>

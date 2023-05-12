@@ -1,0 +1,12 @@
+<meta>
+	<!-- EXPORTS -->
+	<export function="getVehicleLicense" type="server" />
+
+	<!-- FILES -->
+
+	<!-- SERVERSIDE -->
+	<script src="s_settings.lua" type="server" />
+
+	<!-- CLIENTSIDE -->
+	<script src="c_settings.lua" type="client" cache="false"/>
+</meta>

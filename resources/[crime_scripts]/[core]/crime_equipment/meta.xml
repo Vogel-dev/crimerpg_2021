@@ -1,0 +1,81 @@
+<meta>
+	<script src="s.lua" type="server"/>
+	<script src="c.lua" type="client" cache="false"/>
+
+	<file src="dzwieki/zaciaganie.mp3"/>
+	<file src="dzwieki/plusk.mp3"/>
+
+	<file src="grafiki/gui/window.png"/>
+	<file src="grafiki/gui/window2.png"/>
+	<file src="grafiki/gui/ekwipunek.png"/>
+	<file src="grafiki/gui/ekwipunek2.png"/>
+	<file src="grafiki/gui/rybciapasek.png"/>
+	<file src="grafiki/gui/rybciastrzalka.png"/>
+	
+	<file src="grafiki/itemy/plecak.png"/>
+	<file src="grafiki/itemy/kokaina.png"/>
+	<file src="grafiki/itemy/amunicja.png"/>
+	<file src="grafiki/itemy/ziolo.png"/>
+	<file src="grafiki/itemy/rakietnica.png"/>
+	<file src="grafiki/itemy/ak47.png"/>
+	<file src="grafiki/itemy/m4.png"/>
+	<file src="grafiki/itemy/tec.png"/>
+	<file src="grafiki/itemy/pila.png"/>
+	<file src="grafiki/itemy/deagle.png"/>
+	<file src="grafiki/itemy/uzi.png"/>
+	<file src="grafiki/itemy/mp5.png"/>
+	<file src="grafiki/itemy/noz.png"/>
+	<file src="grafiki/itemy/kastet.png"/>
+	<file src="grafiki/itemy/kij_golf.png"/>
+	<file src="grafiki/itemy/kij_baseball.png"/>
+	<file src="grafiki/itemy/palka.png"/>
+	<file src="grafiki/itemy/snajperka.png"/>
+	<file src="grafiki/itemy/gasnica.png"/>
+	<file src="grafiki/itemy/spadochron.png"/>
+	<file src="grafiki/itemy/cola.png"/>
+	<file src="grafiki/itemy/woda.png"/>
+	<file src="grafiki/itemy/kajdanki.png"/>
+	<file src="grafiki/itemy/hamburger.png"/>
+	<file src="grafiki/itemy/kebab.png"/>
+	<file src="grafiki/itemy/paralizator.png"/>
+
+	<file src="grafiki/itemy/maska1.png"/>
+	<file src="grafiki/itemy/maska2.png"/>
+	<file src="grafiki/itemy/maska3.png"/>
+	<file src="grafiki/itemy/maska4.png"/>
+
+	<file src="grafiki/itemy/kanister.png"/>
+	<file src="grafiki/itemy/zestaw.png"/>
+	<file src="grafiki/itemy/zestawdwa.png"/>
+
+	<file src="grafiki/itemy/karas.png"/>
+	<file src="grafiki/itemy/leszcz.png"/>
+	<file src="grafiki/itemy/okon.png"/>
+	<file src="grafiki/itemy/pstrag.png"/>
+	<file src="grafiki/itemy/sandacz.png"/>
+	<file src="grafiki/itemy/ploc.png"/>
+	<file src="grafiki/itemy/sum.png"/>
+	<file src="grafiki/itemy/karp.png"/>
+	<file src="grafiki/itemy/lin.png"/>
+	<file src="grafiki/itemy/amur.png"/>
+	<file src="grafiki/itemy/wegorz.png"/>
+	<file src="grafiki/itemy/fladra.png"/>
+	<file src="grafiki/itemy/rekin.png"/>
+	<file src="grafiki/itemy/wedka.png"/>
+	<file src="grafiki/itemy/wedka2.png"/>
+	<file src="grafiki/itemy/wedka3.png"/>
+
+	<file src="grafiki/itemy/zdrapka1.png"/>
+	<file src="grafiki/itemy/zdrapka2.png"/>
+	<file src="grafiki/itemy/zdrapka3.png"/>
+
+	<file src="grafiki/itemy/ziolo_plant.png"/>
+	<file src="grafiki/itemy/ziolo_donica.png"/>
+	<file src="grafiki/itemy/ziolo_nawoz1.png"/>
+	<file src="grafiki/itemy/ziolo_nawoz2.png"/>
+	<file src="grafiki/itemy/ziolo_nawoz3.png"/>
+	
+	<file src="grafiki/itemy/worek_strunowy.png"/>
+	<file src="grafiki/itemy/rekawiczki.png"/>
+
+</meta>

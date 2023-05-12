@@ -1,0 +1,6 @@
+<meta>
+	<script src="Server.lua" type="server" />
+	<script src="Client.lua" type="client" cache="false"/>
+		<export function="getAdmin" type="server" />
+	<export function="getAdmin" type="client" />
+</meta>
